@@ -5,7 +5,7 @@
 
 ## Description
 
-HRM is a web based HR management system that covers the needs of SMEs for managing their employees and the recruitment process. The system is built on [Laravel 5.3](https://laravel.com/docs/5.3).
+HRM is a web based HR management system that covers the needs of SMEs for managing their employees and the recruitment process. 
 
 Available functions:
 
@@ -54,7 +54,7 @@ HRM is released under the GPL v3 (or later) license.
 
 ## Support
 
-Please direct any feedback to trajchevska@adevait.com.
+Please direct any feedback to miraclesprime@gmail.com.
 
 ## Our supporters
 #### [BrowserStack](https://www.browserstack.com/): Hassle free web-based browser testing 
